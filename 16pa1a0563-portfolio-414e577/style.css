@@ -1,0 +1,64 @@
+.ganga{
+    text-align:center; 
+    background-color:blue;}
+ .yamuna{
+   text-align:center;
+   background-color:green; }
+ .narmada{
+    text-align:center; 
+    background-color:red;}
+.godavari{
+   text-align:center;
+   background-color:white;}
+ .krishna{
+   text-align:center; 
+   background-color:orange;}
+  .kavery{
+     text-align:center; 
+     background-color:grey;} 
+.river{
+   color:blue; 
+   text-align:center;
+   background-color:white;
+   color:red}
+
+img{ 
+     width:100%;
+     height:250px;}
+  
+body {
+    background-color:pink;
+    }
+ .logo{
+        margin-left:30%;
+        width:30%;
+        height:20%;}
+.row {
+    margin: 10px;
+}
+ .footer{
+         text-align:center;
+         background-color:white;}
+    
+.col {
+    display:inline-block;
+    width: 25%;
+    box-shadow:0px 0px 10px blue;
+    margin-left:10%;
+    margin-top:10%;
+    position:relative;
+} 
+@media screen and (max-width: 250px) {
+    .col {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 500px) {
+    .col {
+        width: 100%;https://www.logomood.com/wp-content/uploads/edd/2016/09/RiverWolfPreview.jpg
+    }
+}
+@media screen and (max-width: 97px) {
+         .col{
+         font-size:3px;}
+}
